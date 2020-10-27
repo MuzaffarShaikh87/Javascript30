@@ -1,5 +1,5 @@
 # Javascript30
-Learning Points for this tuotrial:
+Learning Points for this tutorial:
 
 2)CSS + JS Clock: 
 
