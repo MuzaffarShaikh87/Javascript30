@@ -1,4 +1,4 @@
-# Javascript30\
+# Javascript30
 5) Flex Panel Gallery: 
 
 Using CSS, I came to across some important properties which is flex that is used in individual panel of images. 
