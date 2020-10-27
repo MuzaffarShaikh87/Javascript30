@@ -7,6 +7,7 @@ Functions that Playsound using different types of audio and keycode which assign
 
   Example:   
   
+  
              function playSound(e) {
              const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
              const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
